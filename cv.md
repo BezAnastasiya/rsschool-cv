@@ -1,3 +1,4 @@
+![It`s my photo](/MyPhoto.jpg)
 # Anastasiya Biazmen  
 **Current position:** 1C programmer     
 **Desired position:** Junior web developer    
