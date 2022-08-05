@@ -16,7 +16,8 @@ Now I work as a 1c programmer, but I intend to change the direction of my activi
 - **Website development**  
 Attended a course of lectures at **It-Academy** in 2014
 ## Education 
-- Belarusian National Technical University
+- Belarusian National Technical University(From 2010 to 2015)  
+engineer-programmer
 ## Work experience
 - **Direct Partner Company** (_For 1 year [2019]_)  
 Programmer engineer (Trainee)  

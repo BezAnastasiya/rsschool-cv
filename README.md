@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BezAnastasiya.github.io/rsschool-cv/cv
