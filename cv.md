@@ -1,4 +1,4 @@
-![It`s my photo](/MyPhoto.jpg)
+![It`s my photo](Images/MyPhoto.jpg)
 # Anastasiya Biazmen  
 **Current position:** 1C programmer     
 **Desired position:** Junior web developer    
@@ -35,6 +35,6 @@ Online store sales specialist
 Programmer engineer  
    - Refinement of existing configurations 1s 7.7 for sql  
 ## Contacts
-   - +375 (29) 809-35-96
-   - foxanastasiya2@gmail.com
-   - Baranovichi  
+   ![mobile image](Images/mob.jpg) +375 (29) 809-35-96  
+   ![e-mail image](Images/mail.jpg) foxanastasiya2@gmail.com  
+   ![location image](Images/loc.jpg) Baranovichi  
